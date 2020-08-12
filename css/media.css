@@ -1,0 +1,8 @@
+@media (min-width: 1200px){
+.work span:after{content:"";height:22px; width:1px;border-left:1px solid #579bd8;display:inline-block; vertical-align:top; position:absolute;right:-40px;top:1px;}
+.price-list-title a{color:#fff;font-family: 'open_sansitalic';font-size:16px;display:block;background-color:#ef5a23; background-image:url(../images/price-list-icon.png); background-repeat:no-repeat; background-position: 20px 50%;text-align:center;text-indent:30px;
+transition: background-color 0.2s;
+-moz-transition: background-color 0.2s;
+-webkit-transition: background-color 0.2s;
+}
+.content-img2 i{background:url(../images/gear.png)top right no-repeat;width:261px;height:248px;position:absolute;top:-31px;;left:90px;}
